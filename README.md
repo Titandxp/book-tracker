@@ -1,6 +1,6 @@
-# 📚 Book Tracker — Fullstack Interview Challenge
+# 📚 Book Tracker
 
-Welcome to your second interview at <company>!
+Welcome to your second interview at Titan!
 
 In this challenge, you'll work with a small fullstack Book Tracker app using **React** on the frontend and **Node.js (Express)** on the backend.
 
@@ -13,7 +13,7 @@ Your mission is to fix known issues, implement new features, and connect the fro
 Try to complete as many of the following tasks as possible within the allotted time (about **60 minutes**). Prioritize clean, readable code and working functionality over perfection.
 
 ### 🔧 Step 1: Fix Known Issues (Frontend)
-1. Filtering for `"the"` doesn't return `"The Great Gatsby"` (case-sensitive bug)
+1. Filtering for `"the"` doesn't return `"The Great Gatsby"`
 2. Selected books are **lost** when filtered out and then cleared
 3. Selecting a book (e.g., `"1984"`) and then filtering (`"84"`) causes the wrong book to be highlighted
 
