@@ -1,0 +1,10 @@
+{
+  "name": "book-tracker",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run server --prefix backend\" \"npm start --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
